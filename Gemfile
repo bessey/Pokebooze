@@ -7,3 +7,5 @@ gem 'sass'
 gem 'haml'
 gem 'coffee-script'
 gem 'sinatra-support'
+
+gem 'puma'

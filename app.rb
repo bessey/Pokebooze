@@ -2,7 +2,7 @@ require 'sinatra/base'
 require 'sinatra/assetpack'
 require 'sass'
 require 'coffee_script'
-
+require 'haml'
 
 class App < Sinatra::Base
 
